@@ -6,4 +6,4 @@ Creating a new branch is quick.
 add merge
 branch stradegy
 
-[https://github.com/soulomoon/learngit/wiki]
+[wiki](https://github.com/soulomoon/learngit/wiki)
